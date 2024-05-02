@@ -1,2 +1,5 @@
 Maryam Amjad
 23-st-021
+
+cout<< "add two numbers"<<a+b;
+cout<<end;
