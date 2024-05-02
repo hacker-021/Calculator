@@ -9,3 +9,6 @@ cout<<endl;
 
 cout<<"multiply two numbers"<a*b;
 cout<<endl;
+
+cout<<"Divide two numbers"<<a/b;
+cout<<endl;
