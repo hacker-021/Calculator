@@ -6,3 +6,6 @@ cout<<end;
 
 cout<< "sub two numbers"<<a-b;
 cout<<endl;
+
+cout<<"multiply two numbers"<a*b;
+cout<<endl;
