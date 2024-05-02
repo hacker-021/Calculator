@@ -3,3 +3,6 @@ Maryam Amjad
 
 cout<< "add two numbers"<<a+b;
 cout<<end;
+
+cout<< "sub two numbers"<<a-b;
+cout<<endl;
